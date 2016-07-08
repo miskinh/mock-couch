@@ -22,10 +22,10 @@
     "url": "git@github.com:chris-l/mock-couch.git"
   },
   "dependencies": {
+    "couch-viewkey-compare": "^1.0.0",
     "ramda": "^0.8.0",
-    "restify": "^2.7.0",
-    "underscore": "^1.6.0",
-    "couch-viewkey-compare": "^1.0.0"
+    "restify": "^4.1.1",
+    "underscore": "^1.6.0"
   },
   "devDependencies": {
     "grunt": "^0.4.4",
